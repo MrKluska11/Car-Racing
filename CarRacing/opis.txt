@@ -1,0 +1,30 @@
+
+
+Form propeties:
+sieze: 400 : 500
+backColor: Gray
+
+timer = 10 milisecunds
+GAME OVER ---< czerwony napis na czarny tle
+
+moveline()   ---> robisz liste pictureBoksów a potem foreach(PictureBoks p in list) {...}
+moveEnemies()
+moveCoins()
+
+fullSpeed = 21
+
+usefull functions:
+
+enemy.Location = new Point(iks, y)
+
+car.bounds.intersectWith(enemy.Bounds)
+
+
+-----------
+-dorób metê i liniê startu,
+-zrób ¿eby nie powtarzaæ kodu tak jak na filmiku (porób listy)
+-zrób krótkie przerwy pomiêdzy zniknieciem pojazdu i monet a pojawieniem siê ich
+-dorób drug¹ misje
+-dorób pauze,                          Klasa np Environment, or GUI... { }     Interfejs ILines { MoveLines(List<PictureBoks> list, int speed) }
+
+-stwórze gre gdzie zaba przechodzi przez ulice

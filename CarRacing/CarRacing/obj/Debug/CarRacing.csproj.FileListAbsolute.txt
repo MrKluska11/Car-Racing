@@ -1,0 +1,18 @@
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.pictBoxStartLine.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\obj\Debug\CarRacing.pdb
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\obj\Debug\CarRacing.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\obj\Debug\CarRacing.RacingGame.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\CarRacing z refaktoryzacją\CarRacing\bin\Debug\CarRacing.pdb
